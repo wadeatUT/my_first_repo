@@ -3,3 +3,7 @@ Part1: The Basics of GIT
 
 Part 2: Create a new respository from the command line
 * use git init to initialize a new repository
+
+Part 3: Tracking changes with git
+* this is what we are working on now
+
